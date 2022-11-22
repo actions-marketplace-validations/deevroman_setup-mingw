@@ -1,5 +1,5 @@
-name: Install MinGW
-description: Install MinGW-w64
+name: Install MinGW 12.2.0
+description: Based on egor-tensin/setup-mingw 
 
 inputs:
   platform:
