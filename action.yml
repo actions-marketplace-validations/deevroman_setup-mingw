@@ -154,7 +154,7 @@ runs:
             #      any announcements).
             #   b) It was seemingly built without threading (no <mutex>,
             #      <thread>, etc.).
-            $version = '8.1.0'
+            $version = '12.2.0'
 
             if ($x64) {
                 # If the 32-bit version is installed, we won't detect that.
